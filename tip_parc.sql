@@ -18,6 +18,3 @@ UPDATE tip_parc SET
        type='Rez stiintifica',
 	   description='Rezervatie apartinand UVT, Departament Geografie & FMI'
 WHERE type='Stiintifica';
-
-
-SELECT * FROM tip_parc;
