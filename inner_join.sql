@@ -59,5 +59,8 @@ SELECT nume, prenume, model, inaltime_zbor FROM
 	INNER JOIN drona AS d
 	ON od.drona_id=d.id
 	) as al
+	
+	
+
 
 
